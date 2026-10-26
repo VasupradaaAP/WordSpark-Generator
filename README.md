@@ -1,8 +1,6 @@
 # WordSpark-Generator
 WordSpark: Word-to-Story Generator
 
-# Words to Story
-
 Words to Story is a web app for generating short stories with an OpenAI-compatible language model.
 Choose at least 10 of the 30 available words and a genre (Comedy or Horror). Generated stories use
 the selected words, are limited to 200 words, and are saved to PostgreSQL.
