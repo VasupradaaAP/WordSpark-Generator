@@ -1,0 +1,9 @@
+# Words to Story - dependencies
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+psycopg2-binary
+openai
+pydantic
+python-dotenv
