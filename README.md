@@ -5,6 +5,10 @@ Words to Story is a web app for generating short stories with an OpenAI-compatib
 Choose at least 10 of the 30 available words and a genre (Comedy or Horror). Generated stories use
 the selected words, are limited to 200 words, and are saved to PostgreSQL.
 
+## Demo Video
+https://github.com/user-attachments/assets/e167b989-75f6-4325-9a2a-bfacb58d0897
+
+
 ## Requirements
 
 - Python and the packages in `requirements.txt`
